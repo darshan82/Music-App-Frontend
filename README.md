@@ -1,4 +1,8 @@
-# Sample Snack app
+# Music app Frontend
+
+#OverViewOfProject
+
+In this application I have designed the scrollable UI that display songs list with the card view button function. I have implemented the front-end by using React Native
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
 
@@ -6,6 +10,3 @@ When you're ready to see everything that Expo provides (or if you want to use yo
 
 Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
